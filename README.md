@@ -1,6 +1,6 @@
 # Kalman-Filter-Covid19-Cases-Prediction
 
-Team Members: Prateek Kakkar, Aishwarya Saibewar, Swathi Kolar Ravikumar
+              Team Members: Prateek Kakkar, Aishwarya Saibewar, Swathi Kolar Ravikumar
 
 
 ### Problem Statement
