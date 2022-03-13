@@ -1,6 +1,6 @@
 # Kalman-Filter-Covid19-Cases-Prediction
 
-                               Team Members: Prateek Kakkar, Aishwarya Saibewar, Swathi Kolar Ravikumar
+                Team Members: Prateek Kakkar, Aishwarya Saibewar, Swathi Kolar Ravikumar
 	
 ### Problem Statement
 
@@ -13,4 +13,12 @@ The Kalman filter is an algorithm for efficiently performing exact inference in 
 
 ### Data Sources:
 We’ll use the data set from the COVID-19 GitHub Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. This repository is updated daily and consists of daily case reports – confirmed, deaths and recovery from each country/region in the US.
-https://github.com/CSSEGISandData/COVID-19
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+
+
+### Data Files:
+
+This data files used contists of daily time series summary, including confirmed cases and deaths.
+
+> confirmed_cases_us.csv : US confirmed cases reported at the county level.
+> deaths_us.csv : US confirmed deaths reported at the county level.
