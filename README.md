@@ -20,5 +20,5 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 
 This data files used contists of daily time series summary, including confirmed cases and deaths.
 
-> confirmed_cases_us.csv : US confirmed cases reported at the county level.
-> deaths_us.csv : US confirmed deaths reported at the county level.
+*confirmed_cases_us.csv :* US confirmed cases reported at the county level.
+*deaths_us.csv :* US confirmed deaths reported at the county level.
