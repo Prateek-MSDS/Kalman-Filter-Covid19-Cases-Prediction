@@ -1,7 +1,8 @@
 # Kalman-Filter-Covid19-Cases-Prediction
 
-                Team Members: Prateek Kakkar, Aishwarya Saibewar, Swathi Kolar Ravikumar
-	
+Team Members: Prateek Kakkar, Aishwarya Saibewar, Swathi Kolar Ravikumar
+
+
 ### Problem Statement
 
 Coronavirus (COVID-19) has recently caused a paramount worldwide concern. As the number of coronavirus cases reportedly increases, the spread of COVID-19 is a pressing threat to global health. As of January 30, 2021, more than 74.2 million people across every state in the United States and its four territories had tested positive for COVID-19.
