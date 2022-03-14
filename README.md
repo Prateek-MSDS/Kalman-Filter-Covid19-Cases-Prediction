@@ -1,4 +1,4 @@
-# Kalman-Filter-Covid19-Cases-Prediction
+# Kalman Filter Covid19 Cases Prediction for Washington, USA
 
               Team Members: Prateek Kakkar, Aishwarya Saibewar, Swathi Kolar Ravikumar
 
