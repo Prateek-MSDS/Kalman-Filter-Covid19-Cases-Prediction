@@ -28,9 +28,9 @@ This data files used contists of daily time series summary, including confirmed 
 
 ### Citations :
 
-Jain, T. (n.d.). Retrieved from OpenGenus IQ: https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/
+Kalman filter-based short-term prediction model for COVID-19 spread. Appl Intell 51. https://doi.org/10.1007/s10489-020-01948-1, 2714–2726.
 
-Singh, K. K. (2021). Kalman filter-based short-term prediction model for COVID-19 spread. Appl Intell 51. https://doi.org/10.1007/s10489-020-01948-1, 2714–2726.
+Integration of Kalman filter in the epidemiological model: a robust approach to predict COVID-19 outbreak in Bangladesh doi: https://doi.org/10.1101/2020.10.14.20212878
 
-Islam et al(2020) Integration of Kalman filter in the epidemiological model: a robust approach to predict COVID-19 outbreak in Bangladesh doi: https://doi.org/10.1101/2020.10.14.20212878
+Analysis and Forecast of the Number of Deaths, Recovered Cases, and Confirmed Cases From COVID-19 for the Top Four Affected Countries Using Kalman Filter. https://www.frontiersin.org/articles/10.3389/fphy.2021.629320/full
 
